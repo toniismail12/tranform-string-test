@@ -34,4 +34,7 @@ tidak boleh kosong
 ### Hasil success all test
 <img src="./result.png" />
 
+### Hasil failed di length character
+<img src="./result-2.png" />
+
 
