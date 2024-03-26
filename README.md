@@ -62,4 +62,7 @@ Handling short input length
 ### Hasil failed di length character
 <img src="./result-2.png" />
 
-
+## Link video presentasi
+```bash
+https://drive.google.com/file/d/1n2DtiLGgFwqiyYx-X_377nNrNgcFUeYR/view?usp=sharing
+```
