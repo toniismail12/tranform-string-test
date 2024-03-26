@@ -20,7 +20,8 @@ npm run test
 
 ## Scenario
 ```bash
-Fungsi untuk transform value, dari huruf kecil ke huruf besar, input yang diterima merupakan data type string.
+Fungsi untuk transform value, dari huruf kecil ke huruf besar, 
+input yang diterima merupakan data type string.
 ```
 
 ```bash
