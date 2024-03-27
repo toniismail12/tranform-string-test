@@ -63,7 +63,7 @@ Handling short input length
 <img src="./result-2.png" />
 
 ## Link video presentasi
-Open [https://drive.google.com/file/d/1n2DtiLGgFwqiyYx-X_377nNrNgcFUeYR/view?usp=sharing](https://drive.google.com/file/d/1n2DtiLGgFwqiyYx-X_377nNrNgcFUeYR/view?usp=sharing) with your browser to see the result.
+Open [https://drive.google.com/file/d/1tejceFnGMuTW8hy6uGk0EYdr_vg8L5HD/view?usp=sharing](https://drive.google.com/file/d/1tejceFnGMuTW8hy6uGk0EYdr_vg8L5HD/view?usp=sharing) with your browser to see the result.
 ```bash
-https://drive.google.com/file/d/1n2DtiLGgFwqiyYx-X_377nNrNgcFUeYR/view?usp=sharing
+https://drive.google.com/file/d/1tejceFnGMuTW8hy6uGk0EYdr_vg8L5HD/view?usp=sharing
 ```
